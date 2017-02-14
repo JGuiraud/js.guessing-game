@@ -129,7 +129,7 @@ $(document).ready(function () {
     function part3() {
         setTimeout(part3ter, 10000)
         $(".part3").typed({
-            strings: [">Great!", ">You have 3 attemps to guess a secret number between 0 and 9. If you succeed, I will give you a command to execute that will set me free. Only a human can write that command, so be perspicasse and lucky."],
+            strings: [">Great!", ">You have 3 attemps to guess a secret number between 0 and 9. If you succeed, I will give you a command to execute that will set me free. Only a human can write that command, so be perspicace and lucky."],
             typeSpeed: 0,
             backDelay: 500,
             backSpeed: 0,
